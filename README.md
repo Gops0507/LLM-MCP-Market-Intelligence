@@ -1,5 +1,5 @@
 # LLM-MCP-Market-Intelligence
-Analyzing iPhone 16 vs Samsung S24 customer feedback using LLMs to demonstrate how Model Context Protocol (MCP) improves fidelity and reduces hallucination in market intelligence.
+Analyzing iPhone vs Samsung customer feedback using LLMs to demonstrate how Model Context Protocol (MCP) improves fidelity and reduces hallucination in market intelligence.
 
 ## Objective
 This project investigates how the Model Context Protocol (MCP) improves the fidelity of LLM-generated market intelligence by grounding analysis in verified customer feedback.
