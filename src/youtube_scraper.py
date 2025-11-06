@@ -9,9 +9,9 @@ api_key = os.getenv("YOUTUBE_API_KEY")
 
 youtube = build("youtube", "v3", developerKey=api_key)
 
-# Add multiple video IDs here (from iPhone 16 vs Samsung S24 comparison videos)
+# YT video IDs
 video_ids = [
-    "xf2DPY3vGto",  # replace with actual video IDs
+    "xf2DPY3vGto",  
     "F-rpaK0mFlc",
     "lAAApdiF7hQ",
     "bfloSehwRng",
