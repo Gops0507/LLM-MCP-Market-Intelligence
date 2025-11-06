@@ -4,3 +4,4 @@ pandas
 openai
 matplotlib
 numpy
+python-dotenv
