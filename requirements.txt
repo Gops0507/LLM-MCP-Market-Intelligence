@@ -1,0 +1,6 @@
+praw
+google-api-python-client
+pandas
+openai
+matplotlib
+numpy
