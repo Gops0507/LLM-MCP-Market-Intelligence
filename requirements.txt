@@ -4,3 +4,10 @@ dotenv
 pandas
 openpyxl
 xlrd
+praw
+google-api-python-client
+pandas
+matplotlib
+numpy
+python-dotenv
+google-generativeai
