@@ -1,0 +1,6 @@
+pinecone
+google-genai
+dotenv
+pandas
+openpyxl
+xlrd
